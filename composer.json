@@ -1,0 +1,16 @@
+{
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    },
+    "require": {
+    },
+    "autoload": {
+        "classmap": [],
+        "psr-4": {
+            "aversion\\": "./src/"
+        }
+    }
+}
