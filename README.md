@@ -1,5 +1,6 @@
-<center> <h2>aversion</h2></center >
-
+<p align="center" style="color: black;font-size: 40px;">
+     aversion
+</p>
 ------------
 背景
 ------------
